@@ -1,0 +1,12 @@
+#gena {
+    width: 640px;
+    height: 320px;
+    background: yellow;
+    margin: 100px auto;
+}
+
+#box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
